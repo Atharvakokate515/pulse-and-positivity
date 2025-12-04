@@ -20,8 +20,8 @@ export const Profile: React.FC = () => {
   const [formData, setFormData] = useState<UserProfile>({
     name: '',
     email: '',
-    age: 25,
-    weight: 70,
+    age: 22,
+    weight: 76,
     height: 170,
     activityLevel: 'moderate',
     fitnessGoals: ''
